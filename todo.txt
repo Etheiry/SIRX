@@ -1,0 +1,6 @@
+1. Create person parent class for susceptible and recovered
+2. outcome where susceptible fights another susceptible
+3. GiveVaccine method
+4. Make sure to verify groups aren't at 0 population (i.e. Logical errors)
+5. seed value optimization
+6.
