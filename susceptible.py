@@ -64,7 +64,7 @@ class Susceptible:
             self.has_weapon = True
         elif outcome == 3:
             self.has_vaccine = True
-         
+        
         print(f"Chance to find infected: {Susceptible.chanceToFindInfected}") # ! chanceToFindInfected not increasing correctly
         if self.InfectedFound():
             self.is_fighting = True
